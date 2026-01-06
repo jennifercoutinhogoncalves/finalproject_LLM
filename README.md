@@ -1,2 +1,13 @@
-# finalproject_LLM
-Fine-tuning experiment with DistilBERT on the AG News dataset for topic classification of news headlines into four categories. Originally run on Kaggle, but can also be executed locally in Jupyter. Outputs are saved; required packages can be installed via the first cell.
+Project Overview
+This notebook presents a fine-tuning experiment using DistilBERT on the AG news topic classification dataset to classify news headlines into four categories.
+
+Usage Notes
+The notebook was originally created and run on Kaggle but can also be executed locally in a Jupyter environment.
+All outputs are already saved, so there is no need to re-run the notebook unless further changes are required.
+If you choose to run the notebook locally, please ensure that the required packages are installed by executing the first code cell.
+
+Files
+final_code_jennifer.coutinho_goncalves.ipynb: Notebook with code, results, and analysis
+final_report_jennifer.coutinho_goncalves.pdf: Final written report accompanying the notebook
+README.md: Project description and usage notes
+
